@@ -1,4 +1,5 @@
 # VRproject-UI
+작성했던 코드 위치 : Assets/Script
  VRproject 프로젝트에서 미처 못 넣은 UI입니다.
  진짜 열심히 만들었는데...
 
